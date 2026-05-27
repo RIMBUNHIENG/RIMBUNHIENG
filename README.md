@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Rim+Bunhieng;Aspiring+Senior+Data+Analyst;Data+Analytics+Enthusiast;Backend+Developer+%7C+MIS+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Rim+Bunhieng😊;Passionate+Data+Analytics+Enthusiast;Backend+Developer+%7C+MIS+Student" />
 </h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Turning+Raw+Data+Into+Meaningful+Insights;Passionate+About+Business+Intelligence+and+Analytics;Building+Data-Driven+Solutions+Every+Day" alt="Typing SVG" />
-</h3>
+<!-- <h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Passionate+About+Data+Analytics+Enthusiast;Business+Analytics;Building+Data-Driven+Solutions+Every+Day" alt="Typing SVG" />
+</h3> -->
 
 <p align="center">
   <a href="mailto:rimbunhieng@gmail.com">
@@ -22,7 +22,7 @@
 
 ---
 
-# 🚀 About Me
+ ABOUT ME
 
 I am a **Management Information Systems (MIS)** student with a strong passion for **Data Analytics, Business Intelligence, and Backend Development**.
 
@@ -111,30 +111,6 @@ I am continuously learning modern technologies and analytical techniques that he
 - Understanding of **System Analysis concepts**, workflow planning, requirement gathering, and business process thinking
 - Able to organize tasks, manage project workflows, and support team collaboration effectively
 
----
-
-# 📂 Featured Projects
-
-| Project | Description | Technologies |
-|----------|-------------|--------------|
-| Dashboard Project | Interactive dashboard for business insights and visualization | Power BI, Excel |
-| REST API Project | Backend API with CRUD operations and database integration | Node.js, Express.js, MongoDB |
-| SQL Analysis Project | Data analysis using SQL queries and relational databases | SQL, PostgreSQL |
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rimbunhieng22&show_icons=true&theme=default"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimbunhieng22&layout=compact"/>
-</p>
-
----
-
 # 🤝 Connect With Me
 
 <p align="center">
@@ -155,7 +131,9 @@ I am continuously learning modern technologies and analytical techniques that he
 
 <p align="center">
   ⭐ Never stop learning, building, and improving step by step. <br>
-  ⭐ If you feel burned out during your journey, remember why you started. <br><br>
+  ⭐ If you feel burned out during your journey, remember why you started. <br>
+  🚀Keep moving forward and trust the process.
+  <br>
 
-  <strong>Keep moving forward and trust the process.</strong> 🚀
+  <strong></strong> 
 </p>
