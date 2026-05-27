@@ -24,7 +24,7 @@
 
  ABOUT ME
 
-I am a **Management Information Systems (MIS)** student with a strong passion for **Data Analytics, Business Intelligence, and Backend Development**.
+I am a **Management Information Systems (MIS)** student with a strong passion for **Data Analytics Enthusiast, Business Analyst, and Backend Development**.
 
 My primary career goal is to become a **Senior Data Analyst** who can transform raw data into meaningful business insights and support strategic decision-making through data-driven solutions.
 
@@ -60,7 +60,7 @@ I am continuously learning modern technologies and analytical techniques that he
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white&label=Python%20(pandas%2C%20numpy%2C%20Matplotlib%2C%20Seabornetc.)" />
 </p>
 
 ## 💻 Backend Development
@@ -69,7 +69,6 @@ I am continuously learning modern technologies and analytical techniques that he
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 </p>
 
@@ -79,6 +78,8 @@ I am continuously learning modern technologies and analytical techniques that he
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Antigravity_IDE-000000?style=flat&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kiro-000000?style=flat"/>
 </p>
 
 ---
@@ -130,9 +131,9 @@ I am continuously learning modern technologies and analytical techniques that he
 ---
 
 <p align="center">
-  ⭐ Never stop learning, building, and improving step by step. <br>
-  ⭐ If you feel burned out during your journey, remember why you started. <br>
-  🚀Keep moving forward and trust the process.
+⭐ Learn continuously. Build consistently. Improve every step.  
+⭐ When burnout hits, go back to your “why you started IT????”  
+🚀 Progress is slow, but forward is forward — keep going.
   <br>
 
   <strong></strong> 
