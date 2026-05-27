@@ -60,8 +60,9 @@ I am continuously learning modern technologies and analytical techniques that he
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=database&logoColor=white"/>
-<img src="https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white&label=Python%20(pandas%2C%20numpy%2C%20Matplotlib%2C%20Seabornetc.)" />
+<img src="https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white&label=Python%20(pandas%2C%20numpy%2C%20Matplotlib%2C%20Seabornetc.)" <br>
 </p>
+🐍Python for Analytics: pandas, NumPy, Matplotlib, Seaborn (actively learning)
 
 ## 💻 Backend Development
 
@@ -71,6 +72,17 @@ I am continuously learning modern technologies and analytical techniques that he
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 </p>
+🔄 Other Languages & Frameworks (Basic Knowledge)
+
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+</p>
+<br>
+📌Currently exploring: Java (Spring Boot), Python (Flask & Django) – building foundational understanding
 
 ## 🧰 Tools
 
