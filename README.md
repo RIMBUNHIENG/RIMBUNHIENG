@@ -1,93 +1,161 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Rim+Bunhieng;Aspiring+Senior+Data+Analyst;Data+Analytics+Enthusiast;Backend+Developer+%7C+MIS+Student" alt="Typing SVG" />
+</h1>
 
-<!--
-**RIMBUNHIENG/RIMBUNHIENG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Turning+Raw+Data+Into+Meaningful+Insights;Passionate+About+Business+Intelligence+and+Analytics;Building+Data-Driven+Solutions+Every+Day" alt="Typing SVG" />
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:rimbunhieng@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-&lt;h1 align="center"&gt;Hi there 👋, I'm {{Your Name}}&lt;/h1&gt;
-&lt;h3 align="center"&gt;{{Your tagline — e.g., "Full-Stack Developer | Open Source Contributor | Problem Solver"}}&lt;/h3&gt;
+  <a href="https://github.com/rimbunhieng22">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-&lt;p align="center"&gt;
-  &lt;a href="https://linkedin.com/in/{{your-linkedin}}"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:{{your-email}}"&gt;
-    &lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://{{your-website}}"&gt;
-    &lt;img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+  <a href="https://t.me/rimbunhieng">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🚀 About Me
+# 🚀 About Me
 
-* 🔭 I’m currently working on **Data Visualization, Dashboard Projects, and Backend APIs**
-* 🌱 I’m currently learning **Excel, Power BI, SQL, and Python for Data Analytics**
-* 👯 I’m looking to collaborate on **Data Analytics and Business Intelligence Projects**
-* 💬 Ask me about **Excel, SQL, Power BI, Database Design, and Backend Development**
-* 📫 Reach me at: **[rimbunhieng@gmail.com](mailto:rimbunhieng@gmail.com)**
-* ⚡ Fun fact: **I can spend hours cleaning data just to create one beautiful dashboard & Enjoy work with data information** 
----
+I am a **Management Information Systems (MIS)** student with a strong passion for **Data Analytics, Business Intelligence, and Backend Development**.
 
-### 🛠️ Tech Stack
+My primary career goal is to become a **Senior Data Analyst** who can transform raw data into meaningful business insights and support strategic decision-making through data-driven solutions.
 
-&lt;p align="left"&gt;
-  &lt;img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /&gt;
-  &lt;img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /&gt;
-  &lt;img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /&gt;
-  &lt;!-- Add/remove badges for your actual stack --&gt;
-&lt;/p&gt;
+I enjoy working with:
+
+- 📊 Data visualization and dashboard development
+- 🧠 Logical thinking and problem-solving
+- 📈 Business analysis and performance reporting
+- 🗄️ Database design and SQL optimization
+- ⚙️ Backend systems and API development
+
+I am continuously learning modern technologies and analytical techniques that help organizations make smarter business decisions through data.
 
 ---
 
-### 📌 Featured Projects
+# 🎯 My Future Path & Goals
 
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| [{{Project 1}}]({{repo-link}}) | {{Short description}} | `React` `Node.js` | [View]({{demo-link}}) |
-| [{{Project 2}}]({{repo-link}}) | {{Short description}} | `Python` `Django` | [View]({{demo-link}}) |
-| [{{Project 3}}]({{repo-link}}) | {{Short description}} | `Next.js` `PostgreSQL` | [View]({{demo-link}}) |
-
----
-
-### 📊 GitHub Stats
-
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username={{your-username}}&show_icons=true&theme=default" alt="GitHub Stats" /&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{your-username}}&layout=compact&theme=default" alt="Top Languages" /&gt;
-&lt;/p&gt;
+- 🎯 Become a **Senior Data Analyst** specializing in business intelligence and data-driven decision-making
+- 📊 Build advanced expertise in **Power BI, SQL, PostgreSQL, and Data Analytics**
+- 📈 Improve skills in **business analysis, KPI tracking, and performance reporting**
+- 🧠 Strengthen logical thinking and problem-solving abilities for real-world business challenges
+- 🗄️ Master database design, data modeling, and query optimization techniques
+- ⚙️ Develop backend engineering skills to better understand data flow and system architecture
+- 🚀 Grow into a professional who bridges **data, business logic, and technical systems**
 
 ---
 
-### 📈 Contribution Graph
+# 🛠️ Tech Stack & Tools
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username={{your-username}}&theme=github" alt="Contribution Graph" /&gt;
-&lt;/p&gt;
+## 📊 Data Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+</p>
+
+## 💻 Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+</p>
+
+## 🧰 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
-### 📝 Latest Blog Posts / Articles
-&lt;!-- Optional: Add if you write blog posts --&gt;
-- [{{Article Title}}]({{link}})
-- [{{Article Title}}]({{link}})
+# 🗄️ Databases & Data Modeling
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+</p>
+
+- Experience working with **SQL Server**, **PostgreSQL**, and **MongoDB**
+- Understanding of **Entity-Relationship Diagrams (ERD)** and **Database Schema Design**
+- Knowledge of **Database Normalization (1NF to 3NF)**
+- Familiar with relational database concepts, query optimization, and data organization
+- Basic understanding of **Oracle Database**
 
 ---
 
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username={{your-username}}&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /&gt;
-&lt;/p&gt;
+# 📋 Project Management & System Analysis
+
+<p>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white"/>
+</p>
+
+- Familiar with project management and team collaboration tools such as **Notion, Trello, and ClickUp**
+- Understanding of **System Analysis concepts**, workflow planning, requirement gathering, and business process thinking
+- Able to organize tasks, manage project workflows, and support team collaboration effectively
+
+---
+
+# 📂 Featured Projects
+
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| Dashboard Project | Interactive dashboard for business insights and visualization | Power BI, Excel |
+| REST API Project | Backend API with CRUD operations and database integration | Node.js, Express.js, MongoDB |
+| SQL Analysis Project | Data analysis using SQL queries and relational databases | SQL, PostgreSQL |
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rimbunhieng22&show_icons=true&theme=default"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimbunhieng22&layout=compact"/>
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:rimbunhieng@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/rimbunhieng22">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://t.me/rimbunhieng">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Never stop learning, building, and improving step by step. <br>
+  ⭐ If you feel burned out during your journey, remember why you started. <br><br>
+
+  <strong>Keep moving forward and trust the process.</strong> 🚀
+</p>
